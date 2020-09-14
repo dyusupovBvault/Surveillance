@@ -1,0 +1,15 @@
+
+
+  Open Door Login Page
+    √ Has the expected title value (161ms)
+    √ Properly enters the Username (161ms)
+    √ Properly enters the Password (176ms)
+    √ Logs the User In Correctly (5072ms)
+    √ Finds and clicks a menu item called "SCHEDULE" (6070ms)
+    √ Finds and clicks a menu item called "AUCTION" (5752ms)
+CUSIP: 912828X96
+    √ Finds and gets the 1st CUSIP in the CUSIP Column (5029ms)
+
+
+  7 passing (29s)
+

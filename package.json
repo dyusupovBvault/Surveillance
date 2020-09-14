@@ -1,0 +1,17 @@
+{
+  "name": "selenium-scripts",
+  "version": "1.0.0",
+  "description": "Selenium Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ravi Verma",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^80.0.0",
+    "mocha": "^6.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
